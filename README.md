@@ -1,4 +1,4 @@
-# FindingBlackLine
+# Finding Black Line
 
 ## Görüntü üzerindeki hangi piksellerin siyah çizgiler oluşturduğunu, siyah çizgilerin matrisi elemanlarının adreslerini ve satır sütun bilgilerini veren C programı yazılmıştır.
 
